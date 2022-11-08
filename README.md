@@ -1,5 +1,4 @@
 # CarRepair
-## Привет! Я сверстала свою первую веб-страничку по видео youtu.be/playlist?list=PLgzmTiAoPpLpmfmEkQNYezhMhDekTBuia
-#### Как это выглядит, можно посмотреть здесь:
-#### ritusya.github.io/CarRepair/
+## Привет! Я сверстала свою первую веб-страничку [по видео](youtu.be/playlist?list=PLgzmTiAoPpLpmfmEkQNYezhMhDekTBuia) 
+#### [Click to watch the webpage](ritusya.github.io/CarRepair/)
 
